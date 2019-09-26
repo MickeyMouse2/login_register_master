@@ -1,0 +1,4 @@
+#Wed Sep 25 00:58:01 EEST 2019
+base.0=D\:\\login-register-sqlite-tutorial-Kotlin-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

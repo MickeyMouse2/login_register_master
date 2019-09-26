@@ -1,0 +1,236 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml:2:1-36:12
+MERGED from [androidx.databinding:databinding-adapters:3.5.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\b5d4ea1f4b9d0d1cd0436be162ebb223\databinding-adapters-3.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.5.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\b28c7f2f340f504a884cc028a9484df1\databinding-runtime-3.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\6387b11ed55d494eab701a5a89590121\jetified-glide-4.8.0\AndroidManifest.xml:2:1-12:12
+MERGED from [org.kodein.di:kodein-di-framework-android-support:6.2.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\d305d7221a68779f221221b78b4a7a60\jetified-kodein-di-framework-android-support-6.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\96d80a989fe945e5ce332cd18770aa36\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\eebe677f160e87f56ca2806baab9d5e2\appcompat-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\775b8f73a7f31b166cb532bfdf07bff0\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\f4af1e567e9e2a8dfadb6cecac2a9589\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\227211905f6c65802b7e815e39aa9cbf\jetified-picasso-2.71828\AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\117b0364cdb854b35475f40682bd5555\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\1b93271048291a1ecf9a2c429a85c64e\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\46f7e4405b4108fcb9c3c86481697598\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\dfc728eb3ab8fbb60767ca48edab6426\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\2887c51c698876b69e11b55c57a22a10\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\3661d4be835e90be9596ed1af365d9e0\vectordrawable-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\6d00b50eafc8b4e68ac55342bf75dcd5\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\974e2e513b5dc1991b2d6df08fc7ea6f\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\ce94e834a2c972761388e89f6bc898f4\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\aa7abb23d6db5515e8dfcaded575d86a\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\76280826db3b6942df2ad7c54435dce7\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\18e81762b5e80fc282227be8928b6164\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\768f01588c886ccb743ebd55963d9dce\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\4697e5385566eee2f89cac98be45506d\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\424f443cc4cf1a72c9da68cc65ad7198\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\40a27b587f64b161cf943574468d7d08\core-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\0e796f26852a3fa689928cbd2f931bf2\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\96e6c5acbd0ecbaa4a8b0582b07184fe\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [org.kodein.di:kodein-di-framework-android-core:6.2.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\fd39076563445b9df65d4f8dc7cb2d7a\kodein-di-framework-android-core-6.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\01aeb46bf796ec9a9435b0b6571b74df\jetified-gifdecoder-4.8.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\94f7aef93250a40cab3a9857515af833\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\11708121aefa568029cb0bad50ff9092\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\d02b7f05a4635601dc7586cf48d85464\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\7430e110d34f0447e3bf214c76a8f83b\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\f40158cff88d166a13187d8c792656ea\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\ccb962a7b15587dc81d26d3c7f5e2850\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\2e767f24672d905a1a8e7251ff2fd839\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\4ca378ef69a734c6014740ba9cd5b9ba\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\de1054f3c8a22e419d114f4c70f901f3\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\ae154a37bd5ba678d04d89838cc7039d\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml:4:5-46
+		INJECTED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.INTERNET
+ADDED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml:7:22-64
+application
+ADDED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml:8:5-34:19
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\6387b11ed55d494eab701a5a89590121\jetified-glide-4.8.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\6387b11ed55d494eab701a5a89590121\jetified-glide-4.8.0\AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\96d80a989fe945e5ce332cd18770aa36\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\96d80a989fe945e5ce332cd18770aa36\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\775b8f73a7f31b166cb532bfdf07bff0\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\775b8f73a7f31b166cb532bfdf07bff0\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\227211905f6c65802b7e815e39aa9cbf\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\227211905f6c65802b7e815e39aa9cbf\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\40a27b587f64b161cf943574468d7d08\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\40a27b587f64b161cf943574468d7d08\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\96e6c5acbd0ecbaa4a8b0582b07184fe\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\96e6c5acbd0ecbaa4a8b0582b07184fe\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\01aeb46bf796ec9a9435b0b6571b74df\jetified-gifdecoder-4.8.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\01aeb46bf796ec9a9435b0b6571b74df\jetified-gifdecoder-4.8.0\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\40a27b587f64b161cf943574468d7d08\core-1.0.0\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml:11:9-41
+	tools:ignore
+		ADDED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml:14:9-48
+	android:icon
+		ADDED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.androidtutorialshub.project.activities.LoginActivity
+ADDED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:screenOrientation
+		ADDED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml:18:13-49
+	android:name
+		ADDED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml:17:13-84
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.androidtutorialshub.project.activities.RegisterActivity
+ADDED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml:25:9-27:52
+	android:screenOrientation
+		ADDED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml:27:13-49
+	android:name
+		ADDED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml:26:13-87
+activity#com.androidtutorialshub.project.activities.UsersListActivity
+ADDED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml:28:9-30:52
+	android:screenOrientation
+		ADDED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml:30:13-49
+	android:name
+		ADDED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml:29:13-88
+activity#com.androidtutorialshub.project.activities.ProdListActivity
+ADDED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml:31:9-33:52
+	android:screenOrientation
+		ADDED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml:33:13-49
+	android:name
+		ADDED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml:32:13-87
+uses-sdk
+INJECTED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml
+INJECTED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.5.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\b5d4ea1f4b9d0d1cd0436be162ebb223\databinding-adapters-3.5.0\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.5.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\b5d4ea1f4b9d0d1cd0436be162ebb223\databinding-adapters-3.5.0\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.5.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\b28c7f2f340f504a884cc028a9484df1\databinding-runtime-3.5.0\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.5.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\b28c7f2f340f504a884cc028a9484df1\databinding-runtime-3.5.0\AndroidManifest.xml:22:5-44
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\6387b11ed55d494eab701a5a89590121\jetified-glide-4.8.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\6387b11ed55d494eab701a5a89590121\jetified-glide-4.8.0\AndroidManifest.xml:6:5-8:41
+MERGED from [org.kodein.di:kodein-di-framework-android-support:6.2.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\d305d7221a68779f221221b78b4a7a60\jetified-kodein-di-framework-android-support-6.2.0\AndroidManifest.xml:5:5-44
+MERGED from [org.kodein.di:kodein-di-framework-android-support:6.2.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\d305d7221a68779f221221b78b4a7a60\jetified-kodein-di-framework-android-support-6.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\96d80a989fe945e5ce332cd18770aa36\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\96d80a989fe945e5ce332cd18770aa36\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\eebe677f160e87f56ca2806baab9d5e2\appcompat-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\eebe677f160e87f56ca2806baab9d5e2\appcompat-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\775b8f73a7f31b166cb532bfdf07bff0\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\775b8f73a7f31b166cb532bfdf07bff0\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\f4af1e567e9e2a8dfadb6cecac2a9589\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\f4af1e567e9e2a8dfadb6cecac2a9589\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\227211905f6c65802b7e815e39aa9cbf\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\227211905f6c65802b7e815e39aa9cbf\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\117b0364cdb854b35475f40682bd5555\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\117b0364cdb854b35475f40682bd5555\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\1b93271048291a1ecf9a2c429a85c64e\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\1b93271048291a1ecf9a2c429a85c64e\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\46f7e4405b4108fcb9c3c86481697598\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\46f7e4405b4108fcb9c3c86481697598\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\dfc728eb3ab8fbb60767ca48edab6426\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\dfc728eb3ab8fbb60767ca48edab6426\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\2887c51c698876b69e11b55c57a22a10\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\2887c51c698876b69e11b55c57a22a10\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\3661d4be835e90be9596ed1af365d9e0\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\3661d4be835e90be9596ed1af365d9e0\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\6d00b50eafc8b4e68ac55342bf75dcd5\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\6d00b50eafc8b4e68ac55342bf75dcd5\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\974e2e513b5dc1991b2d6df08fc7ea6f\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\974e2e513b5dc1991b2d6df08fc7ea6f\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\ce94e834a2c972761388e89f6bc898f4\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\ce94e834a2c972761388e89f6bc898f4\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\aa7abb23d6db5515e8dfcaded575d86a\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\aa7abb23d6db5515e8dfcaded575d86a\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\76280826db3b6942df2ad7c54435dce7\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\76280826db3b6942df2ad7c54435dce7\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\18e81762b5e80fc282227be8928b6164\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\18e81762b5e80fc282227be8928b6164\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\768f01588c886ccb743ebd55963d9dce\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\768f01588c886ccb743ebd55963d9dce\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\4697e5385566eee2f89cac98be45506d\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\4697e5385566eee2f89cac98be45506d\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\424f443cc4cf1a72c9da68cc65ad7198\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\424f443cc4cf1a72c9da68cc65ad7198\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\40a27b587f64b161cf943574468d7d08\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\40a27b587f64b161cf943574468d7d08\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\0e796f26852a3fa689928cbd2f931bf2\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\0e796f26852a3fa689928cbd2f931bf2\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\96e6c5acbd0ecbaa4a8b0582b07184fe\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\96e6c5acbd0ecbaa4a8b0582b07184fe\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [org.kodein.di:kodein-di-framework-android-core:6.2.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\fd39076563445b9df65d4f8dc7cb2d7a\kodein-di-framework-android-core-6.2.0\AndroidManifest.xml:5:5-44
+MERGED from [org.kodein.di:kodein-di-framework-android-core:6.2.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\fd39076563445b9df65d4f8dc7cb2d7a\kodein-di-framework-android-core-6.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\01aeb46bf796ec9a9435b0b6571b74df\jetified-gifdecoder-4.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\01aeb46bf796ec9a9435b0b6571b74df\jetified-gifdecoder-4.8.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\94f7aef93250a40cab3a9857515af833\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\94f7aef93250a40cab3a9857515af833\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\11708121aefa568029cb0bad50ff9092\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\11708121aefa568029cb0bad50ff9092\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\d02b7f05a4635601dc7586cf48d85464\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\d02b7f05a4635601dc7586cf48d85464\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\7430e110d34f0447e3bf214c76a8f83b\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\7430e110d34f0447e3bf214c76a8f83b\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\f40158cff88d166a13187d8c792656ea\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\f40158cff88d166a13187d8c792656ea\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\ccb962a7b15587dc81d26d3c7f5e2850\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\ccb962a7b15587dc81d26d3c7f5e2850\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\2e767f24672d905a1a8e7251ff2fd839\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\2e767f24672d905a1a8e7251ff2fd839\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\4ca378ef69a734c6014740ba9cd5b9ba\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\4ca378ef69a734c6014740ba9cd5b9ba\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\de1054f3c8a22e419d114f4c70f901f3\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\de1054f3c8a22e419d114f4c70f901f3\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\ae154a37bd5ba678d04d89838cc7039d\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\ae154a37bd5ba678d04d89838cc7039d\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml
+INJECTED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\login-register-sqlite-tutorial-Kotlin-master\app\src\main\AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\227211905f6c65802b7e815e39aa9cbf\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\227211905f6c65802b7e815e39aa9cbf\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\227211905f6c65802b7e815e39aa9cbf\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\valer\.gradle\caches\transforms-2\files-2.1\227211905f6c65802b7e815e39aa9cbf\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
